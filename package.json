@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@upstash/qstash": "^0.1.7",
-    "@upstash/redis": "^1.16.0",
+    "@upstash/redis": "^1.19.1",
     "@vercel/analytics": "^0.1.7-beta.1",
     "classnames": "^2.3.2",
     "lru-cache": "^7.14.1",
